@@ -1,0 +1,102 @@
+.ali {
+  background-color: rgb(215, 212, 212);
+  border-radius: 10px;
+  box-shadow: 10px 20px 1px 0 rgba(0, 0, 0, 0.459), 0 0 10px rgba(0, 0, 0, 0.1);
+  margin: 1em;
+  width: 200px;
+  height: 220px;
+  padding: 1em;
+  text-align: center;
+}
+.ali2 {
+  background-color: rgb(215, 212, 212);
+  border-radius: 10px;
+  box-shadow: 10px 20px 1px 0 rgba(0, 0, 0, 0.459), 0 0 10px rgba(0, 0, 0, 0.1);
+  margin: 1em;
+  width: 200px;
+  height: 220px;
+  padding: 1em;
+  text-align: center;
+}
+.ali3 {
+  background-color: rgb(215, 212, 212);
+  border-radius: 10px;
+  box-shadow: 10px 20px 1px 0 rgba(0, 0, 0, 0.459), 0 0 10px rgba(0, 0, 0, 0.1);
+  margin: 1em;
+  width: 200px;
+  height: 220px;
+  padding: 1em;
+  text-align: center;
+}
+
+input {
+  border: 2px solid black;
+  width: 200px;
+  height: 20px;
+  margin-top: 8px;
+}
+.ali1 {
+  border: 3px solid black;
+  height: 40px;
+  width: 300px;
+  background-color: rgba(210, 161, 1, 0.724);
+}
+
+.ali2 {
+  margin-left: 500px;
+  margin-top: -230px;
+}
+
+.ali3 {
+  margin-left: 1000px;
+  margin-top: -260px;
+}
+.ali4 {
+  height: 400px;
+  width: 300px;
+}
+
+.ali5 {
+  margin-left: 500px;
+  margin-top: -230px;
+}
+
+.ali6 {
+  margin-left: 1000px;
+  margin-top: -260px;
+}
+.ali4 {
+  background-color: rgb(215, 212, 212);
+  border-radius: 10px;
+  box-shadow: 10px 20px 1px 0 rgba(0, 0, 0, 0.459), 0 0 10px rgba(0, 0, 0, 0.1);
+  margin: 1em;
+  width: 200px;
+  height: 220px;
+  padding: 1em;
+  text-align: center;
+  margin-left: -1030px;
+}
+.ali5 {
+  background-color: rgb(215, 212, 212);
+  border-radius: 10px;
+  box-shadow: 10px 20px 1px 0 rgba(0, 0, 0, 0.459), 0 0 10px rgba(0, 0, 0, 0.1);
+  margin: 1em;
+  width: 200px;
+  height: 220px;
+  padding: 1em;
+  text-align: center;
+  margin-left: -515px;
+  margin-top: -262px;
+}
+.ali6 {
+  background-color: rgb(215, 212, 212);
+  border-radius: 10px;
+  box-shadow: 10px 20px 1px 0 rgba(0, 0, 0, 0.459), 0 0 10px rgba(0, 0, 0, 0.1);
+  margin: 1em;
+  width: 200px;
+  height: 220px;
+  padding: 1em;
+  text-align: center;
+  margin-left: -10px;
+  margin-top: -260px;
+}
